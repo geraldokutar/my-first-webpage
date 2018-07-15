@@ -10,3 +10,6 @@ h2 {
 p {
   font-family: san-serif;
 }
+ul {
+  line-height: 40px;
+}
